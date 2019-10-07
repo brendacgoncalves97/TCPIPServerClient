@@ -1,0 +1,16 @@
+D:\MyDocuments\Visual Studio 2015\Projects\TCPIPServerClient\CommonClassLibs\bin\Debug\CommonClassLibs.dll
+D:\MyDocuments\Visual Studio 2015\Projects\TCPIPServerClient\CommonClassLibs\bin\Debug\CommonClassLibs.pdb
+D:\MyDocuments\Visual Studio 2015\Projects\TCPIPServerClient\CommonClassLibs\obj\Debug\CommonClassLibs.csprojResolveAssemblyReference.cache
+D:\MyDocuments\Visual Studio 2015\Projects\TCPIPServerClient\CommonClassLibs\obj\Debug\CommonClassLibs.dll
+D:\MyDocuments\Visual Studio 2015\Projects\TCPIPServerClient\CommonClassLibs\obj\Debug\CommonClassLibs.pdb
+C:\Users\ecklerpa\Documents\Visual Studio 2015\Projects\TCPIPServerClient\CommonClassLibs\bin\Debug\CommonClassLibs.dll
+C:\Users\ecklerpa\Documents\Visual Studio 2015\Projects\TCPIPServerClient\CommonClassLibs\bin\Debug\CommonClassLibs.pdb
+C:\Users\ecklerpa\Documents\Visual Studio 2015\Projects\TCPIPServerClient\CommonClassLibs\obj\Debug\CommonClassLibs.csprojResolveAssemblyReference.cache
+C:\Users\ecklerpa\Documents\Visual Studio 2015\Projects\TCPIPServerClient\CommonClassLibs\obj\Debug\CommonClassLibs.dll
+C:\Users\ecklerpa\Documents\Visual Studio 2015\Projects\TCPIPServerClient\CommonClassLibs\obj\Debug\CommonClassLibs.pdb
+C:\Users\TI Digisystem\Desktop\Nova pasta\Locker\Brenda\TCPIPServerClient\CommonClassLibs\bin\Debug\CommonClassLibs.dll
+C:\Users\TI Digisystem\Desktop\Nova pasta\Locker\Brenda\TCPIPServerClient\CommonClassLibs\bin\Debug\CommonClassLibs.pdb
+C:\Users\TI Digisystem\Desktop\Nova pasta\Locker\Brenda\TCPIPServerClient\CommonClassLibs\obj\Debug\CommonClassLibs.csprojAssemblyReference.cache
+C:\Users\TI Digisystem\Desktop\Nova pasta\Locker\Brenda\TCPIPServerClient\CommonClassLibs\obj\Debug\CommonClassLibs.csproj.CoreCompileInputs.cache
+C:\Users\TI Digisystem\Desktop\Nova pasta\Locker\Brenda\TCPIPServerClient\CommonClassLibs\obj\Debug\CommonClassLibs.dll
+C:\Users\TI Digisystem\Desktop\Nova pasta\Locker\Brenda\TCPIPServerClient\CommonClassLibs\obj\Debug\CommonClassLibs.pdb
